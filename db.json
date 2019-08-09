@@ -12,7 +12,7 @@
     "name": "typicode"
   },
   "sensor": [
-    { "id": 1, "name": "Temperature salon", "type": "float", "value": "21.2", "unit":"°C", "widget":"label" },
-    { "id": 2, "name": "Ouverture volet", "type": "integer", "value": "100", "unit":"°C", "widget":"label" }
+    { "id": 1, "name": "Temperature salon", "type": "float", "value": "21.2", "unit":"°C", "widget":"text" },
+    { "id": 2, "name": "Ouverture volet", "type": "integer", "value": "100", "unit":"°C", "widget":"gauge" }
   ]
 }
